@@ -1,4 +1,4 @@
-# Приложение для тренировок FITNESS WN (Fitness Without Names)
+# Приложение для тренировок FITNESS WN(Fitness Without Names)
 
 # Студенты:
 
