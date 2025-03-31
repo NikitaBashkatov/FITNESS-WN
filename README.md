@@ -10,7 +10,7 @@
 
 - **[Лукашевич Илья](https://github.com/IlyaLukashevich07)** - *QA, AI-инженер*
 
-- **Рискулов Арслан** - *Backend-разработчик*
+- **[Рискулов Арслан](https://github.com/arslanriskulov)** - *Backend-разработчик*
 
 ## Сервисы
 - Figma [Design](https://www.figma.com/design/OF2k46bOU7kGCFSYZX5X4R/Untitled?node-id=1-2&t=2UJhgZhnlutFNaf3-1)
