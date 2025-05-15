@@ -4,7 +4,7 @@
 
 - **[Башкатов Никита](https://github.com/NikitaBashkatov)** - *Team Lead, тех писатель*
 
-- **[Чуев Никита](https://github.com/NikitaChuev)** - *UI/UX, Дизайнер  * 
+- **[Чуев Никита](https://github.com/NikitaChuev)** - *UI/UX, Дизайнер* 
 
 - **[Бородин Илия](https://github.com/ZuDmAn)** - *Frontend-разработчик* 
 
